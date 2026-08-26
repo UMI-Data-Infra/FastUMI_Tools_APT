@@ -1,0 +1,28 @@
+Architectures: amd64
+Codename: focal
+Components: main
+Date: Wed, 26 Aug 2026 08:48:56 +0000
+Description: Official FastUMI Tools repository
+Label: FastUMI Tools
+Origin: FastUMI Team
+Suite: focal
+MD5Sum:
+ 31320b96dcf6057c27d8814af7d33c96              194 Release
+ 3b08280954a19c2c996eec0411af9b05             1726 main/binary-amd64/Packages
+ 2539e599628c99dd507f3d75701c29ba              881 main/binary-amd64/Packages.gz
+ 7eed9dce4ae88ce97bd1eb7bf7519d60              956 main/binary-amd64/Packages.xz
+SHA1:
+ 39e02451efcb91f4c0c9c28482f65b9f1ba46432              194 Release
+ cb5419ea58d9fd830c9d4affd775f6525c073832             1726 main/binary-amd64/Packages
+ 580df6e991a68fbaadc78fa5977efa6abfb44c0c              881 main/binary-amd64/Packages.gz
+ e0b52dc1e690eea58cae474457cc4962c9a5ee16              956 main/binary-amd64/Packages.xz
+SHA256:
+ 61185c2d87d71727fed72b427f908110c10e7a3b3a156502875356da2a15406e              194 Release
+ 61f61aeedcb27a43deb65a32fc1d6c20bb8bfae79d6b9d123af368bd627dd9f7             1726 main/binary-amd64/Packages
+ cfcefa697c840a3dbe7a488eb61b27cc1d9b02b0025e940b86aebfc826a6153c              881 main/binary-amd64/Packages.gz
+ cc469a449eef12fce3abe535baf5c3166cdfcfe1aea22a823ccdeff59d31dd80              956 main/binary-amd64/Packages.xz
+SHA512:
+ be88c5d747189555554e60702a89a6d96dab7f7de2bf1d9e6becbdc828886fecbc9b912b54f43488a533af8db5278844c5f214a01ba85228ae67c1ab83ea62a1              194 Release
+ 6d2fcb829d5c5ce1beb4eb8212a5667c96fbc1aa4c4d76d14312211989eb1a15a77286e9bf01e6015b5e69a1b4c430a80dbec535265fefdc5ace8705f596a7f4             1726 main/binary-amd64/Packages
+ 9f859f5db4e280ecf89fc5ac84fb159624261638eff6d91f4fd759f95b290a2b0bed801e10a62bd0569ff86c9b8f1a3f66a75f022ea566362b567a2dc31faa53              881 main/binary-amd64/Packages.gz
+ aaf17722783face0387da34490243ff972d892b9392b6f00ded3fe1ae9d8e97c3dbffac4e0762f887dd2cda16b69c29fbb0fe8c4e10189f890dcb42fa04dd514              956 main/binary-amd64/Packages.xz

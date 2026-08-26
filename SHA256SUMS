@@ -1,0 +1,14 @@
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./.nojekyll
+91157b18d9c6af569f8dd65ca20654a57ed91cd12e64af8968950ca11e3c181c  ./README.md
+87fbcce8b77257a6ea409e4f09f4625e588bb96d3ddd6035dae54664a5fb39d8  ./dists/focal/InRelease
+de462be05af24ddb3ce93f94c079917d3bed63b92e5dec64006be6291b4355dc  ./dists/focal/Release
+ce532a8d951c5f7fedca8fd76ddc724e254cb4bc5eaecc8b439c646d21b22fd3  ./dists/focal/Release.gpg
+61f61aeedcb27a43deb65a32fc1d6c20bb8bfae79d6b9d123af368bd627dd9f7  ./dists/focal/main/binary-amd64/Packages
+cfcefa697c840a3dbe7a488eb61b27cc1d9b02b0025e940b86aebfc826a6153c  ./dists/focal/main/binary-amd64/Packages.gz
+cc469a449eef12fce3abe535baf5c3166cdfcfe1aea22a823ccdeff59d31dd80  ./dists/focal/main/binary-amd64/Packages.xz
+3c68862b4f572b95f26cf1ac0bcd7b27d849a938c4a9e18c9a44812089f1dbe3  ./fastumi-archive-keyring.asc
+46b63337b7dad7909d14406bc24f6f4123170ac7660e51457d81b566c3197323  ./fastumi-archive-keyring.gpg
+6665255d608774538f0e9fc780d9b7b77ca5248a565407c5cb0db5c3c8374c4d  ./index.html
+04388c2e586359ae9791069a49fdd47e27c3ac581fdfd61e8691d688daa54c3b  ./install-fastumi-repository.sh
+56a9ed603ffebf1dcaec7ad4e6d1179a6898ba49d75b47a64d37178044830758  ./pool/main/f/fastumi-tools/fastumi-tools-resources_2026.08.25.2_amd64.deb
+369f673d3b3df2c4191a1c425aa5dd7d6d5d62bbc8f001914117fe7d2544d7ff  ./pool/main/f/fastumi-tools/fastumi-tools_0.2.3_amd64.deb
